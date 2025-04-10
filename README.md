@@ -4,7 +4,7 @@
 ## <p align="center">  About me 💜
 💻 Learning Web Development \
 📖 Computer Engineering Student \
-<img src="[https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png](https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg)" alt="java logo" min-width="400px" max-width="16px" width="16px">Java is my favorite programming language \
+<img src="[https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png](https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg)" alt="java logo" min-width="400px" max-width="16px" width="16px"> Java is my favorite programming language \
 🎮 I like to read, play videogames and listen to music on my free time 
 
 ## <p align="center">  Languages & Tools 🚀
@@ -27,7 +27,7 @@
 
 ## Contact me 🤝
 
-[![Linkedin](https://img.shields.io/badge/-Sophia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sophia-n-portela/)](https://www.linkedin.com/in/sophia-n-portela/)
+
 [![Gmail Badge](https://img.shields.io/badge/-franciele@madil.io-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sophianobreportela@gmail.com)](mailto:sophianobreportela@gmail.com)
 
 
