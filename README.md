@@ -26,6 +26,9 @@
 
 ## Contact me 💬
 
+<a href="http://linkedin.com/in/sophia-n-portela" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-0a66c2" alt="linkedin"/>
+</a>
 [![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/sophia-n-portela)
 [![Gmail Badge](https://img.shields.io/badge/-email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sophianobreportela@gmail.com)](mailto:sophianobreportela@gmail.com)
 
