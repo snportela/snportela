@@ -24,9 +24,11 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## Contact me
+## Contact me 💬
 
 [![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/sophia-n-portela)
+[![Gmail Badge](https://img.shields.io/badge/-sophianobreportela@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sophianobreportela@gmail.com)](mailto:sophianobreportela@gmail.com)
+
 
 
 
