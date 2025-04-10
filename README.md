@@ -1,13 +1,12 @@
-<div align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7546E8&center=true&width=435&lines=%F0%9F%8C%99+Hello%2C+my+name+is+Sophia+%F0%9F%8C%99;Welcome+to+my+GitHub+profile!+)](https://git.io/typing-svg)
 
-## <p align="center">  About me 💜
+## About me 💜
 💻 Learning Web Development \
 📖 Computer Engineering Student \
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="java logo" width="24" height="24"/> Java is my favorite programming language \
 🎮 I like to read, play videogames and listen to music on my free time 
 
-## <p align="center">  Languages & Tools 🚀
+## Languages & Tools 🚀
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -25,7 +24,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-</div>
 
 
 
