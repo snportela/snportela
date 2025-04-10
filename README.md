@@ -4,7 +4,7 @@
 ## <p align="center">  About me 💜
 💻 Learning Web Development \
 📖 Computer Engineering Student \
-![JavaLogo ](https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg)Java is my favorite programming language \
+<img src="[drawing.jpg](https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg)" alt="java logo" width="20" height="20"/> Java is my favorite programming language \
 🎮 I like to read, play videogames and listen to music on my free time 
 
 ## <p align="center">  Languages & Tools 🚀
