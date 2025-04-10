@@ -4,7 +4,7 @@
 ## About me 💜
 💻 Learning Web Development \
 📖 Computer Engineering Student \
-🎮 I like to read, play videogames and listen to music on my free time \
+🎮 I like to read, play videogames and listen to music on my free time 
 
 ## Languages & Tools 👨‍💻 🛠
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
