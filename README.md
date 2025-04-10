@@ -3,7 +3,7 @@
 ## About me 💜
 💻 Learning Web Development \
 📖 Computer Engineering Student \
-<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="java logo" width="24" height="24"/> Java is my favorite programming language \
+<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="java logo" width="22" height="22"/> Java is my favorite programming language \
 🎮 I like to read, play videogames and listen to music on my free time 
 
 ## Languages & Tools 🚀
