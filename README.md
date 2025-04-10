@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7546E8&center=true&width=435&lines=%F0%9F%8C%99+Hello%2C+my+name+is+Sophia+%F0%9F%8C%99;Welcome+to+my+GitHub+profile!+)](https://git.io/typing-svg)
 
 ## About me 💜
-💻 Learning Web Development \
+💻 Web Development \
 📖 Computer Engineering Student \
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="java logo" width="22" height="22"/> Java is my favorite programming language \
 🎮 I like to read, play videogames and listen to music on my free time 
