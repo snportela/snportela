@@ -1,4 +1,4 @@
-
+<div align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7546E8&center=true&width=435&lines=%F0%9F%8C%99+Hello%2C+my+name+is+Sophia+%F0%9F%8C%99;Welcome+to+my+GitHub+profile!+)](https://git.io/typing-svg)
 
 ## <p align="center">  About me 💜
@@ -25,6 +25,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+</div>
 
 
 
