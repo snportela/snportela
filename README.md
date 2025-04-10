@@ -1,9 +1,10 @@
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7546E8&center=true&width=435&lines=%F0%9F%8C%99+Hello%2C+my+name+is+Sophia+%F0%9F%8C%99;Welcome+to+my+GitHub+profile!+)](https://git.io/typing-svg)
 
-## About me
-💻 Learning Web Development
-📖 Computer Engineering Student
-🎮 I like to read, play videogames and listen to music on my free time
+## About me 💜
+💻 Learning Web Development \
+📖 Computer Engineering Student \
+🎮 I like to read, play videogames and listen to music on my free time \
 
 ## Languages & Tools 👨‍💻 🛠
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
